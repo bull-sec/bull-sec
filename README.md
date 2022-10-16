@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mr Bullsec</h1>
 <h3 align="center">Potentially perfidius person with a penchant for Python</h3>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/MrBulldops.png" alt="TryHackMe">
+
+
+
 <p align="left"> <a href="https://twitter.com/bullsecsecure" target="blank"><img src="https://img.shields.io/twitter/follow/bullsecsecure?logo=twitter&style=for-the-badge" alt="bullsecsecure" /></a> </p>
 
 - 🌱 I’m currently learning **GoLang**
