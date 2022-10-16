@@ -3,7 +3,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MrBulldops.png" alt="TryHackMe">
 
-<script src="https://www.hackthebox.eu/badge/12286"></script>
+<img src="http://www.hackthebox.eu/badge/image/12286" alt="Hack The Box">
 
 <p align="left"> <a href="https://twitter.com/bullsecsecure" target="blank"><img src="https://img.shields.io/twitter/follow/bullsecsecure?logo=twitter&style=for-the-badge" alt="bullsecsecure" /></a> </p>
 
