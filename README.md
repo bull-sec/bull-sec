@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bull-sec](https://github.com/bull-sec)
 
-- 📝 I regularly write articles on [https://bull-sec.github.io/](https://bull-sec.github.io/)
+- 📝 I regularly write articles on [https://bullsec.xyz/](https://bull-sec.xyz/)
 
 - ⚡ Fun fact **I'm taller than you think I am**
 
