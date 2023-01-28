@@ -39,29 +39,26 @@
   <a href="https://github.com/bull-sec/automata">
   <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bull-sec&repo=automata&theme=merko&show_icons=true" />
   </a>
-    <a href="https://github.com/bull-sec/automata">
+    <a href="https://github.com/bull-sec/QuickStart">
   <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bull-sec&repo=QuickStart&theme=merko&show_icons=true" />
   </a>
-      <a href="https://github.com/bull-sec/automata">
+      <a href="https://github.com/bull-sec/Orwell">
   <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bull-sec&repo=Orwell&theme=merko&show_icons=true" />
   </a>
-      <a href="https://github.com/bull-sec/automata">
+      <a href="https://github.com/bull-sec/Protostar">
   <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bull-sec&repo=ProtoStar&theme=merko&show_icons=true" />
   </a>
-      <a href="https://github.com/bull-sec/automata">
+      <a href="https://github.com/bull-sec/Nebula">
   <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bull-sec&repo=Nebula&theme=merko&show_icons=true" />
   </a>
-      <a href="https://github.com/bull-sec/automata">
+      <a href="https://github.com/bull-sec/passwordcheck">
   <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bull-sec&repo=passwordcheck&theme=merko&show_icons=true" />
   </a>
-      <a href="https://github.com/bull-sec/automata">
+      <a href="https://github.com/bull-sec/DotFiles">
   <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bull-sec&repo=DotFiles&theme=merko&show_icons=true" />
   </a>
-      <a href="https://github.com/bull-sec/automata">
+      <a href="https://github.com/bull-sec/HelmetCheck">
   <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bull-sec&repo=bull-sec.github.io&theme=merko&show_icons=true" />
-  </a>
-        <a href="https://github.com/bull-sec/automata">
-  <img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bull-sec&repo=HelmetCheck&theme=merko&show_icons=true" />
   </a>
 </p>
 
